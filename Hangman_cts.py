@@ -1,5 +1,5 @@
 #Main 
 #Andrew
 def 
-#Deepak
-#Abdullah
+#Deepak -- take user guess
+#Abdullah handle win/loss Condition
